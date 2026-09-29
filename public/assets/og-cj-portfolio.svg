@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+  </defs>
+
+  <rect width="1200" height="630" fill="#fff"/>
+  <rect x="470" y="133" width="2" height="364" fill="#e4e8eb"/>
+  <image href="cj-cheiljedang-logo.png" x="94" y="175" width="300" height="300" preserveAspectRatio="xMidYMid meet"/>
+
+  <g font-family="Arial, Apple SD Gothic Neo, sans-serif">
+    <text x="532" y="194" fill="#25313b" font-size="19" font-weight="800" letter-spacing="1.6">YOO DAHYUN · PORTFOLIO</text>
+    <text x="532" y="275" fill="#25313b" font-size="42" font-weight="800" letter-spacing="-2.4">고객의 클릭 한 번부터</text>
+    <text x="532" y="334" fill="#25313b" font-size="42" font-weight="800" letter-spacing="-2.4">데이터의 <tspan fill="#ef8b00">마지막 줄</tspan>까지,</text>
+    <text x="532" y="393" fill="#25313b" font-size="42" font-weight="800" letter-spacing="-2.4"><tspan fill="#dd1f3a">끝까지 따라가는</tspan> 플랫폼 개발자</text>
+    <rect x="532" y="434" width="110" height="5" rx="2.5" fill="#0078c0"/>
+    <rect x="652" y="434" width="110" height="5" rx="2.5" fill="#ef8b00"/>
+    <rect x="772" y="434" width="110" height="5" rx="2.5" fill="#dd1f3a"/>
+  </g>
+</svg>

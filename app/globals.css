@@ -2222,12 +2222,14 @@ a { color:inherit; text-decoration:none; }
 /* 투명 여백이 큰 원본 로고를 자르지 않고 전체 심볼과 워드마크가 보이게 합니다. */
 .brand-logo { width:190px; height:72px; }
 .brand-logo img { width:108%; }
+#introduction .page-number { top:calc(clamp(20px,2.6vw,42px) + 78px); }
 .journey-page .page-number,
 .profile-record-page .page-number,
 .project-store .page-number { top:96px; }
 @media (max-width:760px) {
   .brand-logo,
   #introduction .brand-logo { width:138px; height:54px; }
+  #introduction .page-number { top:82px; right:24px; }
   .journey-page .page-number,
   .profile-record-page .page-number,
   .project-store .page-number { top:74px; }
